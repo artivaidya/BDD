@@ -9,3 +9,6 @@ Feature: QTrip Dynamic Home Page
     Then the title should be "QTrip Dynamic"
     And I should see the search box
     And I should see the navbar
+    And
+    And
+    
